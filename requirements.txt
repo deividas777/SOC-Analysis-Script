@@ -2,3 +2,6 @@ PyPDF2==1.26.0
 argparse==1.2.1
 python-magic==0.4.15
 pdfx==1.3.0
+pybase64
+termcolor
+
